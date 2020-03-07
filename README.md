@@ -1,2 +1,2 @@
 # CPPT
-2-loop integration for CPPt project
+2-loop integration for CPPT project
